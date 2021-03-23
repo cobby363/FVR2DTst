@@ -1,0 +1,173 @@
+{
+"questInfo":
+    [
+     {
+       "Name": "Flynn",
+       "Aquaintance": "I need some stuff to make more paint with, do you think you can get me some brightly coloured plants? The brighter the better!",
+       "AquaintanceComplete": "Thanks for this, I was running dangerously low on paint to keep considering myself and artist.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Peter",
+       "Aquaintance": "I haven't been out on a boat in years, I don't really have a reason to anymore...",
+       "AquaintanceComplete": "Incredible! Thank you! I don't know how I could ever repay you.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Poppy",
+       "Aquaintance": "I could've sworn I left my hat in my garden yesterday, could you be a dear and have a look round for it?",
+       "AquaintanceComplete": "You found it where? Thanks for finding it for me, although I could've sworn that I left it in my own garden!",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Mirijam",
+       "Aquaintance": "My mother banned chocolate from the house, but she'll never know if you happen to bring me some...",
+       "AquaintanceComplete": "You're amazing, now how am I going to get it into the house?",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Jonas",
+       "Aquaintance": "Could you find my sister, she's not been studying AGAIN and she has exams coming up, I'll bet she's just off reading somewhere.",
+       "AquaintanceComplete": "Great you found her! I'm off to talk some sense into her then.",
+      "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Maeve",
+       "Aquaintance": "Hey, glad you're here, my book is missing, I NEED to know how it ends, please help me find it!",
+       "AquaintanceComplete": "Oh thank goodness you found it, I was beginning to think I'd never find out what happened!",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Serena",
+       "Aquaintance": "I cut Flynn's hair and I think I made it worse than it usually is, would it be possible for you to find me something I can give him to wear on his head untill it grows out again?",
+       "AquaintanceComplete": "This is perfect, he'll love it I'm sure, although I don't think he can tell his hair is different.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Walter",
+       "Aquaintance": "I need the nicest wood you can find, Mara just asked me could I make her a huge closet, she must have mounds of clothes lying around.",
+       "AquaintanceComplete": "You have some do you? This is perfect thanks, I'm sure Mara will love it when I'm finished.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Mara",
+       "Aquaintance": "I know this is an awkward favour to ask, but could you possibly find out if Walter likes me? I've been wondering for a while but I could never work up the courage to ask.",
+       "AquaintanceComplete": "Did he say yes? He did! What am I going to say to him?! Thanks, I have to go think of something!",
+      "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Tessa",
+       "Aquaintance": "I'm playing hide-and-seek with my girls at the moment, but they must be experts at this because I can't find them anywhere! can you help me?",
+       "AquaintanceComplete": "You found them! I'm glad, I was worried I was going to be all day searching for the little monsters!",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Desmond",
+       "Aquaintance": "Could you deliver this parcel to Leo? I wanted to thank him for fixing my oven but I'm fairly busy at the moment. Thanks!",
+       "AquaintanceComplete": "Is it delivered? Thanks for helping me out, really appreciated.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Leo",
+       "Aquaintance": "I'm trying to fix this circuit, not sure what it does but I'm sure I'll find out eventually, I need some gold to do it though, would you get me some?",
+       "AquaintanceComplete": "Gold is an excellent conductor, I could use copper, but gold won't wear as easily, so win win!",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Willow",
+       "Aquaintance": "I want to get something for my mom because it's her birthday eventually right? Could you find me something really special for her?",
+       "AquaintanceComplete": "I think my mom will love this, thanks for helping me find something.",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     },
+     {
+       "Name": "Aspen",
+       "Aquaintance": "Are you going to the mine? I really need something shiny because I heard that some birds like shiny things and I really really like birds so, please?",
+       "AquaintanceComplete": "This looks shiny enough, I'm gonna leave it in the garden to see which bird likes it the most!",
+       "ASummary": "AquaintanceSummary",
+       "Friend": "FriendQuest",
+       "FriendComplete": "FriendComplete",
+       "FSummary": "FriendSummary",
+       "BestFriend": "BestFriendQuest",
+       "BestFriendComplete": "BestFriendComplete",
+       "BFFSummary": "BestFriendSummary"
+     }
+    ]
+}
