@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8CA2BD28-5E58-FD20-8473-E80B978388C8}</ProjectGuid>
+    <ProjectGuid>{34813F46-AC7E-063D-A0F3-F1FB13EFE34D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,13 +53,13 @@
     <UnityVersion>2020.1.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\NPCQuest.cs" />
-    <Compile Include="Assets\Scripts\Dialogues.cs" />
-    <Compile Include="Assets\Scripts\NPCDialogue.cs" />
-    <Compile Include="Assets\Scripts\DialogueManager.cs" />
-    <Compile Include="Assets\Scripts\QuestInfo.cs" />
-    <Compile Include="Assets\Scripts\QuestManager.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Quest\NPCQuest.cs" />
+    <Compile Include="Assets\Scripts\Dialogue\Dialogues.cs" />
+    <Compile Include="Assets\Scripts\Dialogue\NPCDialogue.cs" />
+    <Compile Include="Assets\Scripts\Dialogue\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestInfo.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestManager.cs" />
+    <Compile Include="Assets\Scripts\simulator files\Player.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

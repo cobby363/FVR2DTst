@@ -7194,7 +7194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd0d28a99f108ea4fbae381b4cb8a67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ReplyBoxAndButtons: {fileID: 1918904782}
+  ReplyBox: {fileID: 1918904782}
   TextSpeed: 0.045
   audioSource: {fileID: 1077662497}
   currentlyDisplayingText: 0
