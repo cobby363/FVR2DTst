@@ -177,6 +177,12 @@ public class DialogueManager : MonoBehaviour
         RelationshipDictionary[CharName] = ThrowMeIn;
     }
 
+    public void NPCQuestReset(string CharName) //whenevr a quest has been completed and needs to be reset
+    {
+        RelationshipDetails ThrowMeIn = new RelationshipDetails { Level = RelationshipDictionary[CharName].Level, QuestGiven = false, CurrentQuestCompleted = true };
+        RelationshipDictionary[CharName] = ThrowMeIn;
+    }
+
     public void IncreaseNPCLevel(string npcName) //Increment relationship level of NPC
     {
         RelationshipDictionary[npcName] = new RelationshipDetails //Overwrite info relating to npc relationship level
@@ -217,6 +223,7 @@ public class DialogueManager : MonoBehaviour
         {
             IncreaseNPCLevel(CharName); //incriment the npc level if below 3 (best friend level)
         }
+        NPCQuestReset(CharName);
         StartCoroutine(AnimateText()); //start the text animation
     }
 
