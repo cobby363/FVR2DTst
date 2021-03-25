@@ -59,8 +59,8 @@
     <Compile Include="Assets\Scripts\Dialogue\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestInfo.cs" />
     <Compile Include="Assets\Scripts\Quest\QuestManager.cs" />
+    <Compile Include="Assets\Scripts\manager.cs" />
     <Compile Include="Assets\Scripts\simulator files\Player.cs" />
-    <Compile Include="Assets\manager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

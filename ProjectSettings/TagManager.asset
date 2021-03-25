@@ -6,6 +6,7 @@ TagManager:
   tags:
   - NPC
   - button
+  - Mailbox
   layers:
   - Default
   - TransparentFX
