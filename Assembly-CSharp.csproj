@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\Quest\QuestManager.cs" />
     <Compile Include="Assets\Scripts\manager.cs" />
     <Compile Include="Assets\Scripts\simulator files\Player.cs" />
+    <Compile Include="Assets\PopulateGrid.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
